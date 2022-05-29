@@ -5,4 +5,4 @@
 &nbsp;![core-js](https://img.shields.io/badge/core--js-v3.21.1-informational)
 
 ## Netlify link -
-### https://forkifyfast.netlify.app/
+<!-- ### https://forkifyfast.netlify.app/ -->
